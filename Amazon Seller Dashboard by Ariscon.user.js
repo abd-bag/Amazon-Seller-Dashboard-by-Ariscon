@@ -55,7 +55,7 @@ document.getElementById ("myButton").addEventListener (
 // Add action to the button.
 function ButtonClickAction () {
     var bevent = document.createElement('p');
-    bevent.innerHTML = 'The button was clicked. Tıklama ile script icinde yazılmıs baska herhangi bir fonksiyon da çalıştırılabilir...';
+    bevent.innerHTML = 'The button was clicked. Buttons can operate as desired...';
     document.getElementById ("widget-Ariscon").appendChild(bevent);
 }
 
