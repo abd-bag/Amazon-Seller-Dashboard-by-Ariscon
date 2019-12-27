@@ -8,7 +8,7 @@
 // ==/UserScript==
 
 // See the end of the code for the sources we referenced.
-////
+//////
 
 // Create a div element in another div element with the same styles etc. as on the page.
 var divel = document.createElement ('div');
